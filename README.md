@@ -1,7 +1,3 @@
-
-
-
-<p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
@@ -65,13 +61,24 @@ const Study Language  = [
 
 
 
+---
 
 <h3><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Redes Sociales </h3>
+
 <div> </div>
 <p><img src="https://emoji.gg/assets/emoji/7953-discord-lex.png" height="15px"> Discord: ! SoyPochooo ♡#0123</p>
 <div> </div>
 <p><img src="https://emoji.gg/assets/emoji/7158-youtube-lex.png" height="15px"> YouTube: SoyPochooo | https://www.youtube.com/c/iTzPochoYT
 
-  ---
+
+  
+- 🛫 Website Designer
+- ⚡ PHP  & SQL Manager
+- 🍷 Java & C# Developer
+- 🐍 Cibersecurity Member
+- 🌵 React & Boostrap Lover
+- 🤩 Colaboraciones: Activas
+  
+---
   
   <img src="https://i.imgur.com/MVaH2QZ.png">
