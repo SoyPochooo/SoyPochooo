@@ -44,7 +44,7 @@ const Study Language  = [
 <img align="left" alt="Followers" src="https://img.shields.io/github/followers/Pandaxyz-xd?color=gree&style=flat-square"/>
 <img align="center" alt="Apoyo" src="https://img.shields.io/badge/GreenPeace-Support%20%F0%9F%92%96-green"/>
 
-<a href="https://github.com/Pandaxyz-xd"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://github.com/SoyPochooo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📐 Cybersecurity Student
 
@@ -62,3 +62,10 @@ const Study Language  = [
 ## 🏠 Platforms where I work
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/>
+
+## ⭐ Social Media
+<h3><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Redes Sociales </h3>
+<div> </div>
+<p><img src="https://emoji.gg/assets/emoji/7953-discord-lex.png" height="15px"> Discord: ! SoyPochooo ♡#0123</p>
+<div> </div>
+<p><img src="https://emoji.gg/assets/emoji/7158-youtube-lex.png" height="15px"> YouTube: SoyPochooo | https://www.youtube.com/c/iTzPochoYT
