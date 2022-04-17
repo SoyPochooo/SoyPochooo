@@ -63,11 +63,15 @@ const Study Language  = [
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/>
 
----
 
-<img src="https://i.imgur.com/MVaH2QZ.png">
+
+
 <h3><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Redes Sociales </h3>
 <div> </div>
 <p><img src="https://emoji.gg/assets/emoji/7953-discord-lex.png" height="15px"> Discord: ! SoyPochooo ♡#0123</p>
 <div> </div>
 <p><img src="https://emoji.gg/assets/emoji/7158-youtube-lex.png" height="15px"> YouTube: SoyPochooo | https://www.youtube.com/c/iTzPochoYT
+
+  ---
+  
+  <img src="https://i.imgur.com/MVaH2QZ.png">
